@@ -1,0 +1,7 @@
+Status	From-Table	To-Table	Total-Rows	Migrated-Rows	Success-Rate	Duration(DD:HH:MM:SS:MS)	Error-Messages
+Completed	"DSODB"."HOST"	[deepazr05-db].[DSODB].[HOST]	3	3	100.00 %	00:00:00:06:771	
+Completed	"DSODB"."HOSTDETAIL"	[deepazr05-db].[DSODB].[HOSTDETAIL]	20	20	100.00 %	00:00:00:07:319	
+Completed	"DSODB"."PARALLELCONFIG"	[deepazr05-db].[DSODB].[PARALLELCONFIG]	4	4	100.00 %	00:00:00:07:707	
+Completed	"DSODB"."JOBLINK"	[deepazr05-db].[DSODB].[JOBLINK]	22615	22626	100.05 %	00:00:33:09:567	
+Completed	"DSODB"."MASTERREF"	[deepazr05-db].[DSODB].[MASTERREF]	49	49	100.00 %	00:00:00:06:334	
+Completed	"DSODB"."RESOURCESNAP"	[deepazr05-db].[DSODB].[RESOURCESNAP]	3	3	100.00 %	00:00:00:07:331	
